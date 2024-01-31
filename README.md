@@ -23,7 +23,7 @@ This repository contains a data analysis project focused on exploring and analyz
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/video-game-analysis.git
+git clone "https://github.com/your-username/video-game-analysis.git"
 ```
 2. Navigate to the project directory:
 
@@ -36,3 +36,7 @@ cd video-game-analysis
 ```bash
 pip install -r requirements.txt
 ```
+
+## Acknowledgments
+
+   Thanks to gregorut(https://www.kaggle.com/datasets/gregorut/videogamesales) for providing the video game dataset used in this Analysis.
