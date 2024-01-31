@@ -39,4 +39,4 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-   Thanks to gregorut(https://www.kaggle.com/datasets/gregorut/videogamesales) for providing the video game dataset used in this Analysis.
+   Thanks to [gregorut](https://www.kaggle.com/datasets/gregorut/videogamesales) for providing the video game dataset used in this Analysis.
