@@ -8,10 +8,12 @@ This repository contains a data analysis project focused on exploring and analyz
 
 - **Notebooks:** This directory contains Jupyter Notebooks that make up the analysis process.
   - `Video_Game_sales_Cleaning.ipynb`: Notebook for loading and cleaning the video game dataset.
+  - `Video_Game_Analysis` : Notebook for Analysing and extracting insights from the video game dataset.
   - `Visualisations.ipynb`: Notebook for summarizing findings and drawing conclusions.
 
 - **Data:** This directory holds the dataset used for analysis.
   - `vgsales.csv`: The dataset containing information about various video games.
+  - `Cleaned_Sales.csv` : The Dataset after the process of cleaning.
 
 - **Results:** This directory can be used to store any generated reports, visualizations, or output files.
   - `Output.pdf`: The Pdf File containing The final Output of the Analysis.
