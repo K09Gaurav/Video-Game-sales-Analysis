@@ -15,9 +15,6 @@ This repository contains a data analysis project focused on exploring and analyz
   - `vgsales.csv`: The dataset containing information about various video games.
   - `Cleaned_Sales.csv` : The Dataset after the process of cleaning.
 
-- **Results:** This directory can be used to store any generated reports, visualizations, or output files.
-  - `Output.pdf`: The Pdf File containing The final Output of the Analysis.
-
 - `requirements.txt`: List of Python libraries and their versions required for this project. Install them using `pip install -r requirements.txt`.
 
 ## Getting Started
